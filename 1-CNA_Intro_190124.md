@@ -285,6 +285,7 @@ html: true
   
   
   
+  
 
 
 
@@ -324,9 +325,10 @@ html: true
 
 ## Réponses à toutes les questions administratives
 
-<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #31708f; background-color: white; border-color: #bce8f1;">
+<div style="padding: 15px; border: 3px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: black; background-color: white; border-color: #bce8f1;">
 Pour toutes les questions administratives, voir la <a href="http://www.univ-paris3.fr/medias/fichier/charte-de-l-evaluation-et-du-controle-des-connaissances-licence-et-master-2023-2024-cfvu-10-nov-2023_1700764504893.pdf">Charte de l'évaluation et du contrôle des connaissances</a>.
 </div>
+
 
 
  ou contacter :
@@ -338,26 +340,178 @@ Pour toutes les questions administratives, voir la <a href="http://www.univ-pari
 
   ## Plan du cours
 
- <ol style="font-size: 26px";>
+ <ol style="font-size: 28px; line-height: 1em;">
   <li>Introduction au cours. Connaître son propre ordinateur.</li>
-  <li>La ligne de commande comme alternative à l'interface graphique : langage de script Bash.</li>
+  <li>La ligne de commande comme alternative à l'interface graphique : langage Bash.</li>
   <li>Structure des répertoires. Variables.</li>
   <li>Exécution des scripts en ligne de commande.</li>
   <li>Examen blanc 1.</li>
-  <li>Contrôle continu. Premier partiel.</li>
-  <li>Langage de balisage Markdown : notions de base.</li>
+</ol>
+<p style="font-size: 28px; line-height: 1em;">Congés</p>
+  <ol start="6" style="font-size: 28px; line-height: 1em;">
+  <li>Contrôle continu 1</li>
+  <li>Remise des partiels et discussion. Langage de balisage Markdown : notions de base.</li>
   <li>Markdown : rédaction d’une documentation.</li>
-  <li>Git : outil de versionnement du code. Notions de base.</li>
+  <li>Git : outil de versionnement du code. Notions de base.</li> 
   <li>Git : commandes de base.</li>
+  <li>Exercices Bash, Markdown et Git</li>
+</ol>
+<p style="font-size: 28px; line-height: 1em;">Congés</p>
+<ol start="12" style="font-size: 28px; line-height: 1em;">
   <li>Examen blanc 2.</li>
   <li>Contrôle continu. Deuxième partiel.</li>
-  <li> ???? </li>
 </ol> 
+
 
 ---
 
 # Connaître son propre ordinateur
 
+---
+
+## *Shell*
+
+La coque logicielle d'un système d'exploitation peut prendre deux formes distinctes :
+
+* interface graphique 
+  * navigateur web est un shell pour un moteur de rendu HTML 
+    * Firefox est un shell pour le moteur Gecko
+
+* **interface en ligne de commande** (plus généralement employé dans ce sens)
+  * interpréteur de lignes de commandes 
+  * accès aux services et interaction avec le noyau d'un SE
+  * dans le cas d'Ubuntu, un shell interagit avec le noyau Linux
+
+<small-text>Source : [Wiki ubuntu-fr](https://doc.ubuntu-fr.org/shell)</small-text>
+
+---
+
+## Schéma conceptuel d'un système Unix
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+![bg width:400pt height:350pt](img/shell.png)
+
+---
+
+# Console
+
+* écran (le plus souvent noir) destiné à recevoir des commandes Shell
+* sous Linux, il y a 6 différentes consoles
+  * `Ctrl + (Fn) + Alt + F1` : la console numéro 1 [terminal 1 (`tty1`)]
+  * `Ctrl + (Fn) + Alt + F2` : la console numéro 2 [terminal 2 (`tty2`)]
+    ... 
+
+---
+
+## Interface graphique
+
+* angl. *graphical user interface* – *GUI*
+
+* environnement graphique (un environnement de bureau ou un écran d'accueil)
+
+* manière dont est présenté un logiciel à l'écran pour l'utilisateur
+
+* positionnement des éléments : menus, boutons, fonctionnalités dans la fenêtre
+
+* une GUI bien conçue est ergonomique et intuitive (facile à utiliser)
+
+  <br><small-text>Source : [Xyoos](https://cours-informatique-gratuit.fr/dictionnaire/interface-graphique/)</small-text>
+
+
+---
+
+## Exemple de la GUI
+
+<br><br>
+
+<br><br>
+
+<br><br>
+
+<br><br>
+
+<br>
+
+![bg width:650pt height:300pt](img/gui.png)
+
+<div align="center">Analyse du corpus de Jane Austen dans Voyant Tools.</div>
+
+---
+
+# Interface en ligne de commande
+
+* angl. *command-line interface* – *CLI*
+* interface homme‐machine dans laquelle la communication entre l'utilisateur et l'ordinateur s'effectue en mode texte :
+
+  * l'utilisateur tape une ligne de commande, c'est‐à‐dire du texte au clavier pour demander à l'ordinateur d'effectuer une opération
+
+  * l'ordinateur affiche du texte correspondant au résultat de l'exécution des commandes tapées ou à des questions qu'un logiciel pose à l'utilisateur
+
+---
+
+## Exemple d'utilisation de la ligne de commande
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+![bg width:550pt height:400pt](/home/ljudmila/Bureau/SN/CNA_L2HN001/img/cli.png)
+
+<div align="center">Terminal. Ubuntu 22.04.1 LTS.</div>
+
+---
+
+## Invite de commande
+
+`ljudmila@ljudmila-Latitude-5580:~/Bureau$`
+
+* `ljudmila` : nom d'utilisateur
+* `ljudmila-Latitude-5580` : nom de l'ordinateur
+* `@` : chez (angl. *at*)
+* `~/Bureau` : on est parti du dossier personnel  `~` et arrivé au dossier `/Bureau`
+* `$` : on est connecté en tant que simple utilisateur 
+  * <small-text>le cas où on sera connecté en tant que « super utilisateur » le `$` sera remplacé par `#`</small-text>
 
 ---
 
