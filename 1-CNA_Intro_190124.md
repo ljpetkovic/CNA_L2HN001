@@ -68,13 +68,19 @@ html: true
       font-size: 0.5rem;
     }
 
-
   .center {
    display: block;
      margin-left: auto;
    margin-right: auto;
      width: 50%;
   }
+
+.container {
+  display: grid;
+  grid-template-columns: 0.68fr 1fr;
+}
+
+
 
     #content {
           position: relative;
@@ -125,7 +131,9 @@ html: true
 
   </small-text>
 
-<smaller-text>*Diapositives adaptées de [Simon Gabay](https://github.com/gabays/Fondamentaux/blob/main/Lignes_de_commandes/DistRead_1_2.pdf) et de [Simone Rebora](https://github.com/ABC-DH/EnExDi2022/tree/main/materials/1_KnowYourComputer/slides)*.</smaller-text>
+<smaller-text>*Diapositives adaptées de [Simon Gabay](https://github.com/gabays/Fondamentaux/blob/main/Lignes_de_commandes/DistRead_1_2.pdf), [Simone Rebora](https://github.com/ABC-DH/EnExDi2022/tree/main/materials/1_KnowYourComputer/slides) et [Jean-Michel Adam](https://miashs-www.u-ga.fr/~adamj/documents/Sys2-Introauxsystemes.pdf)*.</smaller-text>
+
+<!--<smaller-text>*Diapositives adaptées de [Simon Gabay](https://github.com/gabays/Fondamentaux/blob/main/Lignes_de_commandes/DistRead_1_2.pdf) et de [Simone Rebora](https://github.com/ABC-DH/EnExDi2022/tree/main/materials/1_KnowYourComputer/slides)*.</smaller-text>-->
 
 <div style="position:relative; top:-80px; left:0px; margin-left:790px; margin-right:0px; font-size:14px;">
   Source :  <a href="https://kinsta.com/fr/blog/commandes-linux/">Diaz, 2023.</a>
@@ -369,9 +377,76 @@ Pour toutes les questions administratives, voir la <a href="http://www.univ-pari
 
 ---
 
+## Système informatique
+
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #3c763d; background-color: #dff0d8; border-color: #d6e9c6;">
+Le système informatique est un ensemble des matériels et logiciels destinés à réaliser des tâches qui mettent en jeu le traitement automatique de l'information.
+</div>
+
+* Objectif : automatiser le traitement de l’information
+
+* Un système informatique est constitué de deux entités : le matériel et le logiciel
+
+---
+
+## Organisation schématique d'un système informatique
+
+* modèle en couches
+
+<p align="center" alt="drawing">
+    <img src="/home/ljudmila/Bureau/SN/CNA_L2HN001/img/systeme_info_couches.png" width="800" height="450"><br>
+</p>
+
+<p align="center">Source : <a href="https://miashs-www.u-ga.fr/~adamj/documents/Sys2-Introauxsystemes.pdf">Adam, <i>s.d.</i></a></p>
+
+---
+
+## Logiciel de base et système d'exploitation
+
+ <div class="container">
+  <div class="column">
+     <p align="center" alt="drawing">
+    <img src="/home/ljudmila/Bureau/SN/CNA_L2HN001/img/logiciel_base.png" width="400" height="400"><br>
+</p></div>
+  <div class="column">Dans le logiciel de base on distingue deux niveaux :
+     <ul>
+         <li>les outils et services : compilateur, chargeur, utilitaires ;
+     	 <li>le système d'exploitation (SE) : couche inférieure, plus proche de la machine.</li>
+      </ul>
+      <small-text>Outils et services sont interchangeables et peuvent être absents.<br>Par contre, le SE est indispensable, c’est lui qui masque le matériel.</small-text>
+         </div>
+
+<p align="center">Illustration adaptée de : <a href="https://miashs-www.u-ga.fr/~adamj/documents/Sys2-Introauxsystemes.pdf">Adam, <i>s.d.</i></a></p>
+
+</div>
+
+---
+
+## Système d'exploitation
+
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #3c763d; background-color: #dff0d8; border-color: #d6e9c6;">
+Le système d'exploitation (abbr. SE) est l’ensemble de programmes qui dirigent l'utilisation des ressources d'un ordinateur par des logiciels applicatifs.
+</div>
+
+* angl. *operating system* (abbr. *OS*)
+* objectif : faciliter la programmation et l’utilisation de la machine en fournissant des services de base permettant d’abstraire le matériel et de gérer les ressources matérielles
+* exemples : Windows, macOS, Android, iOS, Linux…
+
+---
+
+## Noyau
+
+Le noyau d’un SE est le logiciel qui assure :
+
+* la communication entre les logiciels et le matériel
+* la gestion des divers logiciels (tâches) à exécuter : lancement des programmes, ordonnancement, etc.
+* la gestion du matériel : mémoire, processeur, périphérique, stockage, etc.
+
+---
+
 ## *Shell*
 
-La coque logicielle d'un système d'exploitation peut prendre deux formes distinctes :
+La coque logicielle (angl. *shell*) d'un SE peut prendre deux formes distinctes :
 
 * interface graphique 
   * navigateur web est un shell pour un moteur de rendu HTML 
@@ -412,7 +487,9 @@ La coque logicielle d'un système d'exploitation peut prendre deux formes distin
 
 <br>
 
-![bg width:400pt height:350pt](img/shell.png)
+![bg width:470pt height:430pt](img/shell.png)
+
+<p align="center">Source : <a href="https://github.com/gabays/Fondamentaux/blob/main/Lignes_de_commandes/DistRead_1_2.pdf">Gabay, 2022.</a></p>
 
 ---
 
@@ -518,3 +595,5 @@ La coque logicielle d'un système d'exploitation peut prendre deux formes distin
   ## Références
 
   * Diaz, D. (2023). « Les 40 commandes Linux les plus utilisées que vous devez connaître ». Kinsta. https://kinsta.com/fr/blog/commandes-linux/
+  * Adam, J.-M. (*s.d.*). « Introduction aux systèmes d'exploitation des ordinateurs » [*diapositives*]. Université Grenoble Alpes, UFR SHS – Département IMSS. https://miashs-www.u-ga.fr/~adamj/documents/Sys2-Introauxsystemes.pdf
+  * Gabay, S. (2022). « Les lignes de commandes et Bash » [*dépôt GitHub*]. Université de Genève, Chaire des humanités numériques, Faculté des Lettres. https://github.com/gabays/Fondamentaux/blob/main/Lignes_de_commandes/DistRead_1_2.pdf
