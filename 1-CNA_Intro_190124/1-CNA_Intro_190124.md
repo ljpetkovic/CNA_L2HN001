@@ -433,7 +433,7 @@ Les matériels (angl. <i>hardware</i>) désignent l'ensemble des pièces détach
 
 * angl. *output*
 * données émises par une unité centrale à destination d'un périphérique
-* Le périphérique de sortie traduit les informations traitées par l'ordinateur sous une forme que les humains peuvent comprendre
+* Le périphérique de sortie traduit les informations traitées par l'ordinateur sous une forme que les humains peuvent comprendre :
   * texte, impression, son, graphiques ou vidéo.
 
 ---
