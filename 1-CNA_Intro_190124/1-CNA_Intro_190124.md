@@ -537,7 +537,15 @@ Le noyau (angl. *kernel*) d’un SE est le logiciel qui assure :
 
   ## Références
 
-  * Diaz, D. (2023). « Les 40 commandes Linux les plus utilisées que vous devez connaître ». Kinsta. https://kinsta.com/fr/blog/commandes-linux/
-  * Adam, J.-M. (*s.d.*). « Introduction aux systèmes d'exploitation des ordinateurs » [*diapositives*]. Université Grenoble Alpes, UFR SHS – Département IMSS. https://miashs-www.u-ga.fr/~adamj/documents/Sys2-Introauxsystemes.pdf
-  * Gabay, S. (2022). « Les lignes de commandes et Bash » [*dépôt GitHub*]. Université de Genève, Chaire des humanités numériques, Faculté des Lettres. https://github.com/gabays/Fondamentaux/blob/main/Lignes_de_commandes/DistRead_1_2.pdf
-  * myMaxicours. (*s.d.*). « L'environnement informatique ». https://www.maxicours.com/se/cours/l-environnement-informatique/
+<ul style="font-size: 20px">
+    <li><b>Rebora, S.</b> (2022). « Connaître son propre ordinateur ». EnExDi2022. <a href="https://github.com/ABC-DH/EnExDi2022/tree/main/materials/1_KnowYourComputer/slides">https://github.com/ABC-DH/EnExDi2022/tree/main/materials/1_KnowYourComputer/slides</a>
+  </li>
+    <li><b>Adam, J.-M.</b> (<i>s.d.</i>). « Introduction aux systèmes d'exploitation des ordinateurs » [<i>diapositives</i>]. Université Grenoble Alpes, UFR SHS – Département IMSS. <a href="https://miashs-www.u-ga.fr/~adamj/documents/Sys2-Introauxsystemes.pdf">https://miashs-www.u-ga.fr/~adamj/documents/Sys2-Introauxsystemes.pdf</a>
+    </li>
+    <li><b>Gabay, S.</b> (2022). « Les lignes de commandes et Bash » [<i>dépôt GitHub</i>]. Université de Genève, Chaire des humanités numériques, Faculté des Lettres. <a href="https://github.com/gabays/Fondamentaux/blob/main/Lignes_de_commandes/DistRead_1_2.pdf">https://github.com/gabays/Fondamentaux/blob/main/Lignes_de_commandes/DistRead_1_2.pdf</a>
+    </li>
+    <li><b>Diaz, D.</b> (2023). « Les 40 commandes Linux les plus utilisées que vous devez connaître ». Kinsta. <a href="https://kinsta.com/fr/blog/commandes-linux/">https://kinsta.com/fr/blog/commandes-linux/</a>
+    </li>
+    <li><b>myMaxicours.</b> (<i>s.d.</i>). « L'environnement informatique ». <a href="https://www.maxicours.com/se/cours/l-environnement-informatique/">https://www.maxicours.com/se/cours/l-environnement-informatique/</a>
+    </li>
+</ul>
