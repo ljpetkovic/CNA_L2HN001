@@ -140,6 +140,7 @@ Paris, le 19 janvier 2024, année 2023-2024
   Source :  <a href="https://kinsta.com/fr/blog/commandes-linux/">Diaz, 2023.</a>
 </div>
 
+
 ---
 
 # Questions administratives
@@ -329,6 +330,8 @@ Paris, le 19 janvier 2024, année 2023-2024
   * calcul de la moyenne uniquement à partir des autres épreuves auxquelles l’étudiant·e a participé ;
   * organisation d’une nouvelle épreuve pour les étudiant·e·s concerné·e·s.
 
+Le justificatif de l’absence en original doit être produit dans les meilleurs délais, et au plus tard une semaine après le terme de l’absence (au sein du même semestre), auprès de l’enseignant·e concerné·e (il faut également l'envoyer au secrétariat du département). 
+
 
 ---
 
@@ -342,7 +345,7 @@ Pour toutes les questions administratives, voir la <a href="http://www.univ-pari
 
  ou contacter :
 
-* le secrétariat : <a href="mailto:patricia.hernandez-munoz@sorbonne-nouvelle.fr">Mme Patricia HERNANDEZ-MUNOZ</a>
+* la secrétaire du département : <a href="mailto:patricia.hernandez-munoz@sorbonne-nouvelle.fr">Mme Patricia HERNANDEZ-MUNOZ</a>
 * le directeur du département : <a href="mailto:james.costa@sorbonne-nouvelle.fr">M. James COSTA</a>
 
 ---
