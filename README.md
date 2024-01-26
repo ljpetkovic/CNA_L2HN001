@@ -51,15 +51,17 @@
 
 `Cours 1` : Introduction aux cultures numériques avancées. Connaître son propre ordinateur.
 
+`Cours 2` : Ligne de commande : langage Bash.
+
 (à venir)
 
 ---
 
 ### Prérequis
 
-Git Bash...
+Pour les utilisateurs de Windows, installer [Git Bash](https://git-scm.com/download/win), qui permet l'exécution des commandes et des scripts Bash (ou utiliser les commandes équivalentes exécutables dans Command Prompt ou PowerShell).
 
-(à venir)
+Les utilisateurs de Mac et de Linux ne sont pas concernés (il suffit d'ouvrir l'application `Terminal`) et d'y lancer directement les commandes et les scripts Bash.
 
 ---
 
