@@ -51,7 +51,7 @@
 
 `Cours 1` : Introduction aux cultures numériques avancées. Connaître son propre ordinateur.
 
-`Cours 2` : Ligne de commande : langage Bash.
+`Cours 2` : Ligne de commande · langage Bash.
 
 (à venir)
 
