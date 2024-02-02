@@ -53,6 +53,8 @@
 
 `Cours 2` : Ligne de commande · langage Bash.
 
+`Cours 3` : Structure des répertoires. Commandes. Variables.
+
 (à venir)
 
 ---
