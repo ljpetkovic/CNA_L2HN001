@@ -359,7 +359,7 @@ Pour toutes les questions administratives, voir la <a href="http://www.univ-pari
  <ol style="font-size: 28px; line-height: 1em;">
   <li>Introduction au cours. Connaître son propre ordinateur.</li>
   <li>La ligne de commande comme alternative à l'interface graphique : langage Bash.</li>
-  <li>Structure des répertoires. Variables.</li>
+  <li>Structure des répertoires. Commandes. Variables.</li>
   <li>Exécution des scripts en ligne de commande.</li>
   <li>Examen blanc 1.</li>
 </ol>
@@ -419,7 +419,7 @@ Les matériels (angl. <i>hardware</i>) désignent l'ensemble des pièces détach
 ## Schéma d'un système informatique
 
 <p align="center" alt="drawing">
-    <img src="/home/ljudmila/Bureau/SN/CNA_L2HN001/cours_1_Intro/img/peripheriques.jpg" width="625" height="500"><br>
+    <img src="/home/ljudmila/Dropbox/Bureau/SN/CNA_L2HN001/cours_1_Intro_190124/img/peripheriques.jpg" width="625" height="500"><br>
 </p>
 <p align="center">Source : <a href="https://www.maxicours.com/se/cours/l-environnement-informatique/">myMaxicours, <i>s.d.</i></a></p>
 
@@ -487,8 +487,9 @@ Les <span style="color:darkblue"><b>systèmes d'exploitation</b></span> (angl. *
 * modèle en couches
 
 <p align="center" alt="drawing">
-    <img src="/home/ljudmila/Bureau/SN/CNA_L2HN001/cours_1_Intro/img/systeme_info_couches.png" width="800" height="450"><br>
+    <img src="/home/ljudmila/Dropbox/Bureau/SN/CNA_L2HN001/cours_1_Intro_190124/img/systeme_info_couches.png" width="800" height="450"><br>
 </p>
+
 
 
 
@@ -502,7 +503,7 @@ Les <span style="color:darkblue"><b>systèmes d'exploitation</b></span> (angl. *
  <div class="container">
   <div class="column">
      <p align="center" alt="drawing">
-    <img src="/home/ljudmila/Bureau/SN/CNA_L2HN001/cours_1_Intro/img/logiciel_base.png" width="400" height="400"><br>
+    <img src="/home/ljudmila/Dropbox/Bureau/SN/CNA_L2HN001/cours_1_Intro_190124/img/logiciel_base.png" width="400" height="400"><br>
 </p></div>
   <div class="column">Dans le logiciel de base on distingue deux niveaux :
      <ul>
@@ -511,6 +512,7 @@ Les <span style="color:darkblue"><b>systèmes d'exploitation</b></span> (angl. *
       </ul>
       <small-text>Outils et services sont interchangeables et peuvent être absents.<br>Par contre, le SE est indispensable, c’est lui qui masque le matériel.</small-text>
          </div>
+
 
 
 
@@ -526,8 +528,9 @@ Les <span style="color:darkblue"><b>systèmes d'exploitation</b></span> (angl. *
 Le SE est un intermédiaire entre les logiciels d'application et le matériel.
 
 <p align="center" alt="drawing">
-    <img src="/home/ljudmila/Bureau/SN/CNA_L2HN001/cours_1_Intro/img/systeme_exploitation.png" width="700" height="450"><br>
+    <img src="/home/ljudmila/Dropbox/Bureau/SN/CNA_L2HN001/cours_1_Intro_190124/img/systeme_exploitation.png" width="700" height="450"><br>
 </p>
+
 
 
 ---
