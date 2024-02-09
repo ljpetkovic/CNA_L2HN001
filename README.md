@@ -49,13 +49,13 @@
 
 ### Programme
 
-`Cours 1` : Introduction aux cultures numériques avancées. Connaître son propre ordinateur.
+<a href="https://github.com/ljpetkovic/CNA_L2HN001/tree/main/cours_01_Intro_190124">Cours 1</a> : Introduction aux cultures numériques avancées. Connaître son propre ordinateur.
 
-`Cours 2` : Ligne de commande · langage Bash.
+<a href="https://github.com/ljpetkovic/CNA_L2HN001/tree/main/cours_02_Bash_260124">Cours 2</a> : Ligne de commande · langage Bash.
 
-`Cours 3` : Structure des répertoires. Commandes. Variables.
+<a href="https://github.com/ljpetkovic/CNA_L2HN001/tree/main/cours_03_Structure_020224">Cours 3</a> : Structure des répertoires. Commandes. Variables.
 
-`Cours 4` : Exécution des scripts en ligne de commande.
+<a href="https://github.com/ljpetkovic/CNA_L2HN001/tree/main/cours_04_Scripts_090224">Cours 4</a> : Exécution des scripts en ligne de commande.
 
 (à venir)
 
