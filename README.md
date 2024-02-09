@@ -55,6 +55,8 @@
 
 `Cours 3` : Structure des répertoires. Commandes. Variables.
 
+`Cours 4` : Exécution des scripts en ligne de commande.
+
 (à venir)
 
 ---
