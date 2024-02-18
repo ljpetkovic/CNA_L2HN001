@@ -57,6 +57,8 @@
 
 <a href="https://github.com/ljpetkovic/CNA_L2HN001/tree/main/cours_04_Scripts_090224">Cours 4</a> : Exécution des scripts en ligne de commande.
 
+<a href="https://github.com/ljpetkovic/CNA_L2HN001/tree/main/cours_05_Revisions_160224">Cours 5</a> : Révisions. Examen blanc 1.
+
 (à venir)
 
 ---
