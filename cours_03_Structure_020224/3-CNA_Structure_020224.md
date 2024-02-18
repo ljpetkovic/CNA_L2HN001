@@ -4,7 +4,7 @@ theme: default
 markdown.marp.enableHtml: true
 paginate: true
 extra: true
-footer: "Cultures numériques avancées, mineure HN (L2HN001), 02/02/2024, Ljudmila PETKOVIC"
+footer: "Cultures numériques avancées, licence <i>Sciences du langage</i>, mineure HN (L2HN001), 02/02/2024, Ljudmila PETKOVIC"
 html: true
 
 ---
@@ -132,7 +132,7 @@ html: true
   <small-text> 
 
 Cultures numériques avancées (L2HN001)
-Mineure « Humanités numériques », licence Lettres 
+Licence *Sciences du langage*, mineure « Humanités numériques » 
 Paris, le 2 février 2024, année 2023-2024
 
   </small-text>
@@ -182,7 +182,7 @@ Paris, le 2 février 2024, année 2023-2024
 
 <br>
 
-![bg width:500pt height:350pt](/home/ljudmila/Dropbox/Bureau/SN/archive/2022-23/CNA_L2HN001/1_Ligne_de_commande/img/arborescence.jpg)
+![bg width:500pt height:350pt](/home/ljudmila/Dropbox/SN/CNA_L2HN001/cours_03_Structure_020224/img/arborescence.jpg)
 
 *<p align="center">Filesystem Hierarchy Standard.</p>*
 
@@ -211,7 +211,7 @@ Les répertoires sont organisés comme un arbre :
 
 
 
-![bg width:350pt height:250pt](/home/ljudmila/Dropbox/Bureau/SN/archive/2022-23/CNA_L2HN001/1_Ligne_de_commande/img/arborescence.jpg)
+![bg width:350pt height:250pt](/home/ljudmila/Dropbox/SN/archive/2022-23/CNA_L2HN001/1_Ligne_de_commande/img/arborescence.jpg)
 
 <br>
 
@@ -457,7 +457,7 @@ rm -rf test
 
 ## Rechercher
 
-Faire des recherches dans un fichier : `grep` (`Select-String` pour Windows) :
+Faire des recherches dans un fichier avec la commande `grep` :
 
 ```bash
 grep "ordinateur" fichier_test.txt
