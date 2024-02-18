@@ -4,7 +4,7 @@ theme: default
 markdown.marp.enableHtml: true
 paginate: true
 extra: true
-footer: "Cultures numériques avancées, mineure HN (L2HN001), 09/02/2024, Ljudmila PETKOVIC"
+footer: "Cultures numériques avancées, licence <i>Sciences du langage</i>, mineure HN (L2HN001), 09/02/2024, Ljudmila PETKOVIC"
 html: true
 
 ---
@@ -132,7 +132,7 @@ html: true
   <small-text> 
 
 Cultures numériques avancées (L2HN001)
-Mineure « Humanités numériques », licence Lettres
+Licence *Sciences du langage*, mineure « Humanités numériques »
 Paris, le 9 février 2024, année 2023-2024
 
   </small-text>
@@ -642,4 +642,3 @@ Pour stocker le résultat d'une commande dans cette variable :
     </li>
     <li><b>Xyoos</b> (<i>s.d.</i>). « Interface graphique ». <a href="https://cours-informatique-gratuit.fr/dictionnaire/interface-graphique/">https://cours-informatique-gratuit.fr/dictionnaire/interface-graphique/</a></li>
 </ul>
-
