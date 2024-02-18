@@ -5,7 +5,7 @@
 <table align="center" style="font-size: 23px;">
     <tr>
         <td align="left"><b>Formation</b></td>
-        <td align="left">mineure Humanités numériques, licence Lettres (L1)</td>
+        <td align="left">mineure Humanités numériques, licence Science du langage (L1)</td>
     </tr>
     <tr style="background-color: white;">
         <td align="left"><b>Modalité</b></td>
