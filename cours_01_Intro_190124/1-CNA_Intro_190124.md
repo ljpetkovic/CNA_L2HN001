@@ -4,7 +4,7 @@ theme: default
 markdown.marp.enableHtml: true
 paginate: true
 extra: true
-footer: "Cultures numériques avancées, mineure HN (L2HN001), 19/01/2024, Ljudmila PETKOVIC"
+footer: "Cultures numériques avancées, licence <i>Sciences du langage</i>, mineure HN (L2HN001), 19/01/2024, Ljudmila PETKOVIC"
 html: true
 
 ---
@@ -127,7 +127,7 @@ html: true
   <small-text> 
 
 Cultures numériques avancées (L2HN001)
-Mineure « Humanités numériques », licence Lettres 
+Licence *Sciences du langage*, mineure « Humanités numériques » 
 Paris, le 19 janvier 2024, année 2023-2024
 
   </small-text>
@@ -152,7 +152,7 @@ Paris, le 19 janvier 2024, année 2023-2024
 <table align="center" style="font-size: 23px;">
     <tr>
         <td align="left"><b>Formation</b></td>
-        <td align="left">mineure Humanités numériques, licence Lettres (L1)</td>
+        <td align="left">Licence <i>Sciences du langage</i> (L1), mineure « Humanités numériques »</td>
     </tr>
     <tr style="background-color: white;">
         <td align="left"><b>Modalité</b></td>
@@ -191,6 +191,8 @@ Paris, le 19 janvier 2024, année 2023-2024
     </tr>
     </tr>
 </table>
+
+
 
 ---
 
@@ -419,7 +421,7 @@ Les matériels (angl. <i>hardware</i>) désignent l'ensemble des pièces détach
 ## Schéma d'un système informatique
 
 <p align="center" alt="drawing">
-    <img src="/home/ljudmila/Dropbox/Bureau/SN/CNA_L2HN001/cours_1_Intro_190124/img/peripheriques.jpg" width="625" height="500"><br>
+    <img src="/home/ljudmila/Dropbox/SN/CNA_L2HN001/cours_01_Intro_190124/img/peripheriques.jpg" width="625" height="500"><br>
 </p>
 <p align="center">Source : <a href="https://www.maxicours.com/se/cours/l-environnement-informatique/">myMaxicours, <i>s.d.</i></a></p>
 
@@ -487,8 +489,9 @@ Les <span style="color:darkblue"><b>systèmes d'exploitation</b></span> (angl. *
 * modèle en couches
 
 <p align="center" alt="drawing">
-    <img src="/home/ljudmila/Dropbox/Bureau/SN/CNA_L2HN001/cours_1_Intro_190124/img/systeme_info_couches.png" width="800" height="450"><br>
+    <img src="/home/ljudmila/Dropbox/SN/CNA_L2HN001/cours_01_Intro_190124/img/systeme_info_couches.png" width="800" height="450"><br>
 </p>
+
 
 
 
@@ -503,7 +506,7 @@ Les <span style="color:darkblue"><b>systèmes d'exploitation</b></span> (angl. *
  <div class="container">
   <div class="column">
      <p align="center" alt="drawing">
-    <img src="/home/ljudmila/Dropbox/Bureau/SN/CNA_L2HN001/cours_1_Intro_190124/img/logiciel_base.png" width="400" height="400"><br>
+    <img src="/home/ljudmila/Dropbox/SN/CNA_L2HN001/cours_01_Intro_190124/img/logiciel_base.png" width="400" height="400"><br>
 </p></div>
   <div class="column">Dans le logiciel de base on distingue deux niveaux :
      <ul>
@@ -512,6 +515,7 @@ Les <span style="color:darkblue"><b>systèmes d'exploitation</b></span> (angl. *
       </ul>
       <small-text>Outils et services sont interchangeables et peuvent être absents.<br>Par contre, le SE est indispensable, c’est lui qui masque le matériel.</small-text>
          </div>
+
 
 
 
@@ -528,8 +532,9 @@ Les <span style="color:darkblue"><b>systèmes d'exploitation</b></span> (angl. *
 Le SE est un intermédiaire entre les logiciels d'application et le matériel.
 
 <p align="center" alt="drawing">
-    <img src="/home/ljudmila/Dropbox/Bureau/SN/CNA_L2HN001/cours_1_Intro_190124/img/systeme_exploitation.png" width="700" height="450"><br>
+    <img src="/home/ljudmila/Dropbox/SN/CNA_L2HN001/cours_01_Intro_190124/img/systeme_exploitation.png" width="700" height="450"><br>
 </p>
+
 
 
 
