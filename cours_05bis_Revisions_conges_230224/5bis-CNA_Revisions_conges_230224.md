@@ -227,8 +227,9 @@ Pour contourner ce problème, les utilisateurs de Windows peuvent télécharger 
 <small-text>2. Dans l'onglet Keys, cochez `Ctrl + Shift + letter shortcuts`</small-text>
 
 <p align="center" alt="drawing">
-    <img src="/home/ljudmila/Dropbox/SN/CNA_L2HN001/cours_06_Revisions_conges_230224/img/git_raccourci_copier_coller.png" width="300" height="230"><br>
+    <img src="/home/ljudmila/Dropbox/SN/CNA_L2HN001/cours_05bis_Revisions_conges_230224/img/git_raccourci_copier_coller.png" width="300" height="230"><br>
 </p>
+
 
 ---
 
