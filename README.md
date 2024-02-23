@@ -60,6 +60,8 @@
 
 <a href="https://github.com/ljpetkovic/CNA_L2HN001/tree/main/cours_05_Revisions_160224">Cours 5</a> : Révisions. Examen blanc 1.
 
+<a href="https://github.com/ljpetkovic/CNA_L2HN001/tree/main/cours_05bis_Revisions_conges_230224">Cours 5<i>bis</i></a> : Récapitulatif Bash et commandes essentielles.
+
 (à venir)
 
 ---
