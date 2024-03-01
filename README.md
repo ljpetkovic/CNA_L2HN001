@@ -62,6 +62,8 @@
 
 <a href="https://github.com/ljpetkovic/CNA_L2HN001/tree/main/cours_05bis_Revisions_conges_230224">Cours 5<i>bis</i></a> : Récapitulatif : Bash et commandes essentielles.
 
+[Cours 6](https://github.com/ljpetkovic/CNA_L2HN001/tree/main/cours_06_Examen_partiel_010324) : Examen partiel 1.
+
 (à venir)
 
 ---
