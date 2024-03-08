@@ -64,6 +64,8 @@
 
 [Cours 6](https://github.com/ljpetkovic/CNA_L2HN001/tree/main/cours_06_Examen_partiel_010324) : Examen partiel 1.
 
+[Cours 7](https://github.com/ljpetkovic/CNA_L2HN001/tree/main/cours_07_Markdown_intro_080324) : Langage de balisage Markdown. Notions de base.
+
 (à venir)
 
 ---
