@@ -66,6 +66,8 @@
 
 [Cours 7](https://github.com/ljpetkovic/CNA_L2HN001/tree/main/cours_07_Markdown_intro_080324) : Langage de balisage Markdown. Notions de base.
 
+[Cours 8](https://github.com/ljpetkovic/CNA_L2HN001/tree/main/cours_08_Markdown_doc_150324) : Markdown : rédaction d'une documentation.
+
 (à venir)
 
 ---
