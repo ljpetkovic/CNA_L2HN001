@@ -68,6 +68,8 @@
 
 [Cours 8](https://github.com/ljpetkovic/CNA_L2HN001/tree/main/cours_08_Markdown_doc_150324) : Markdown : rédaction d'une documentation.
 
+[Cours 9](https://github.com/ljpetkovic/CNA_L2HN001/tree/main/cours_09_Git_intro_220324) : Git : outil de versionnement du code. Notions de base.
+
 (à venir)
 
 ---
