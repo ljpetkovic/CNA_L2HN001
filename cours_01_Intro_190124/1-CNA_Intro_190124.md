@@ -371,7 +371,7 @@ Pour toutes les questions administratives, voir la <a href="http://www.univ-pari
   <li>Langage de balisage Markdown : notions de base.</li>
   <li>Markdown : rédaction d’une documentation.</li>
   <li>Git : outil de versionnement du code. Notions de base.</li> 
-  <li>Git : commandes de base.</li>
+  <li>GitHub et GitHub Desktop.</li>
   <li>Exercices Bash, Markdown et Git</li>
 </ol>
 <p style="font-size: 28px; line-height: 1em;">Congés</p>
