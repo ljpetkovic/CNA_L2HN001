@@ -71,6 +71,7 @@
 [Cours 9](https://github.com/ljpetkovic/CNA_L2HN001/tree/main/cours_09_Git_intro_220324) : Git : outil de versionnement du code. Notions de base.
 
 [Cours 10](https://github.com/ljpetkovic/CNA_L2HN001/tree/main/cours_10_GitHub_Desktop_290324) : GitHub et GitHub Desktop.
+
 (à venir)
 
 ---
