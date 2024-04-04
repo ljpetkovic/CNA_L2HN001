@@ -72,6 +72,8 @@
 
 [Cours 10](https://github.com/ljpetkovic/CNA_L2HN001/tree/main/cours_10_GitHub_Desktop_290324) : GitHub et GitHub Desktop.
 
+[Cours 11](https://github.com/ljpetkovic/CNA_L2HN001/tree/main/cours_11_Exos_Bash_MD_Git_050424) : Exercices Bash, Markdown et Git.
+
 (à venir)
 
 ---
