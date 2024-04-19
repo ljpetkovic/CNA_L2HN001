@@ -74,6 +74,8 @@
 
 [Cours 11](https://github.com/ljpetkovic/CNA_L2HN001/tree/main/cours_11_Exos_Bash_MD_Git_050424) : Exercices Bash, Markdown et Git.
 
+[Cours 12](https://github.com/ljpetkovic/CNA_L2HN001/tree/main/cours_12_Examen_blanc_2_190424) : Examen blanc 2.
+
 (à venir)
 
 ---
